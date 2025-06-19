@@ -1,7 +1,7 @@
 # Java Basics – if, if-else, if-else ladder
 
 This repository contains 5 simple Java programs I created as part of my learning journey.  
-The two programs use **hardcoded values**, and the remaining use the **Scanner class** to take input from the user.
+The first two programs use **hardcoded values**, and the remaining use the **Scanner class** to take input from the user.
 
 These programs cover fundamental Java concepts, including:
 - Data types
