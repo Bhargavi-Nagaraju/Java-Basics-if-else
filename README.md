@@ -1,4 +1,4 @@
-# Java Basics – if, if-else, if-else ladder
+# Java Basics – if, if-else, if-else ladder,nested-if,switch-case
 
 This repository contains 5 simple Java programs I created as part of my learning journey.  
 The first two programs use **hardcoded values**, and the remaining use the **Scanner class** to take input from the user.
@@ -7,7 +7,8 @@ These programs cover fundamental Java concepts, including:
 - Data types
 - Variables
 - Scanner for user input
-- if, if-else, if-else ladder
+- if, if-else, if-else ladder,nested-if
+- Switch-case
 
 ---
 
@@ -32,6 +33,11 @@ These programs cover fundamental Java concepts, including:
 5. **Voter Eligibility Checker**
    - Checks whether a person is eligible to vote based on age (must be 18 or older).
    - ✅ Uses Scanner
+6. **Leap Year Checker**
+   - This program checks whether a year is a leap year
+   - ✅ Hardcoded version
+7. **Weekday Finder**
+   - This program prints the day based on the hardcoded number
 
 ---
 
